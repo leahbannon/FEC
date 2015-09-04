@@ -48,14 +48,15 @@ partners:
 
 # Brief descriptions of significant project developments
 milestones:
-- 
+- 'June 2014: Project Discovery stage started'
+- 'May 2015: Alpha testing of API and website'
+- 'July 2015: Beta testing of the API'
 
 # Technologies used to build the project
 stack:
-- 
 
 # Brief description of the project's outcomes
-impact:
+impact: 'The FEC collects data about how campaigns are financed that affect all 318 million Americans every 2 years.'
 
 # Services used to supply project status information
 # Items:
@@ -76,15 +77,19 @@ licenses:
 
 # Blogs or websites associated with project development
 blog:
-- 
+- FEC
 
 # Links to project artifacts
 # Items:
 # - url: URL for the link
 #   text: Anchor text for the link
 links:
-- 
+- 'https://api.open.fec.gov/developers'
+- 'https://github.com/18F/FEC'
+- 'https://github.com/18F/openFEC'
+- 'https://github.com/18F/openFEC-web-app'
+- 'https://github.com/18F/fec-alpha'
 
 # Email addresses of points-of-contact
 contact:
-- 
+- 18F/FEC/issues
